@@ -8,7 +8,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ["Zynx's Hood owner", "destroying kids dreams since 2017", "Z On Top", "kpop destroyer", "Z owns you", "discord terminated", "!Zynx#0008", "Zynx's Hood owner", "destroying kids dreams since 2017", "Z On Top", "kpop destroyer", "Z owns you", "discord terminated", "!Zynx#0008", "Zynx's Hood owner", "destroying kids dreams since 2017", "Z On Top", "kpop destroyer", "Z owns you", "discord terminated", "!Zynx#0008", "Zynx's Hood owner", "destroying kids dreams since 2017", "Z On Top", "kpop destroyer", "Z owns you", "discord terminated", "!Zynx#0008"];
+  brandDescription = ["Zynx's Hood owner", "destroying kids dreams since 2017", "Z On Top", "kpop destroyer", "Zynx owns you", "discord terminated", "!Zynx#0008", "Zynx's Hood owner", "destroying kids dreams since 2017", "Z On Top", "kpop destroyer", "Z owns you", "discord terminated", "!Zynx#0008", "Zynx's Hood owner", "destroying kids dreams since 2017", "Z On Top", "kpop destroyer", "Z owns you", "discord terminated", "!Zynx#0008", "Zynx's Hood owner", "destroying kids dreams since 2017", "Z On Top", "kpop destroyer", "Zynx owns you", "discord terminated", "!Zynx#0008"];
 
   titleChanger = (text, delay) => {
     if (!text) return;
