@@ -38,7 +38,7 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: "!Zynx#0008",
+      name: "!Zynx#9263",
       link: "https://discord.gg/yQNTB9Gg"
     },
     {
@@ -46,7 +46,7 @@ $(document).ready(() => {
       link: "https://discord.io/Yawh"
     },
     {
-      name: "Z Music bot",
+      name: "Zynx Bot",
       link: "https://top.gg/bot/1033264752312451133"
     },
     {
@@ -54,7 +54,7 @@ $(document).ready(() => {
       link: "https://top.gg/bot/1033264752312451133"
     },
     {
-      name: "discord.gg/qM6RaYGp3f",
+      name: ".gg/qM6RaYGp3f",
       link: "discord.gg/qM6RaYGp3f"
     },
     {
